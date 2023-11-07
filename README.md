@@ -1,9 +1,10 @@
 # Baldwinian-PINN
 
-# Generalizable Neural Physics Solvers by Baldwinian Evolution
+**Generalizable Neural Physics Solvers by Baldwinian Evolution**
 
-## Jian Cheng Wong<sup>1,2*</sup>, Chin Chun Ooi<sup>1†</sup>, Abhishek Gupta<sup>3†</sup>, Pao-Hsiung Chiu<sup>1</sup>, 
-## Joshua Shao Zheng Low<sup>2</sup>, My Ha Dao<sup>1</sup>, Yew-Soon Ong<sup>2,4</sup>
+__Jian Cheng Wong<sup>1,2*</sup>, Chin Chun Ooi<sup>1†</sup>, Abhishek Gupta<sup>3†</sup>, Pao-Hsiung Chiu<sup>1</sup>,__
+
+__Joshua Shao Zheng Low<sup>2</sup>, My Ha Dao<sup>1</sup>, Yew-Soon Ong<sup>2,4</sup>__
 
 
 <sup>1</sup>Institute of High Performance Computing, Agency for Science, Technology and

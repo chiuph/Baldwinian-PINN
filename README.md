@@ -23,8 +23,8 @@ Expected time required for training and run across all tasks in the provided scr
 
 # Coypright
 
-This tool is developed in Fluid Dynamics department, Institute of High Performance Computing(IHPC), A*STAR.
+This tool is developed in Fluid Dynamics department, Institute of High Performance Computing (IHPC), A*STAR.
 
-The copyright holder for this project is Fluid Dynamics department, Institute of High Performance Computing(IHPC), A*STAR.
+The copyright holder for this project is Fluid Dynamics department, Institute of High Performance Computing (IHPC), A*STAR.
 
 All rights reserved.

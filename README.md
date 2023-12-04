@@ -19,7 +19,7 @@ You can download this repo and run the demo tasks on your computing machine.
 # Time cost
 Typical install time should be under 30min for all the above packages.
 
-Expected time required for training and run across all tasks in the provided scripts should be under 4 hours on a workstation with GPU (Intel Xeon W-2275 and 2 Nvidia GeForce RTX 3090). Individual tasks might take as little as 10 mins.
+Expected time required for training and run across all tasks in the provided scripts should be under 4 hours on a workstation with 2 GPUs (Intel Xeon W-2275 and 2 Nvidia GeForce RTX 3090). Individual tasks might take as little as 10 mins.
 
 # Coypright
 

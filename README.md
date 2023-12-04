@@ -12,3 +12,23 @@ _Physics-informed neural networks (PINNs) are at the forefront of scientific mac
 
 # Install
 [![jax-0.3.23](https://img.shields.io/badge/jax-0.3.23-yellowgreen)](https://github.com/google/jax) [![evojax-0.2.15](https://img.shields.io/badge/evojax-0.2.15-orange)](https://github.com/google/evojax) [![evosax-0.0.9](https://img.shields.io/badge/evosax-0.0.9-red)](https://github.com/RobertTLange/evosax) [![flax-0.6.1](https://img.shields.io/badge/flax-0.6.1-lightgrey)](https://github.com/google/flax) [![optax-0.1.3](https://img.shields.io/badge/optax-0.1.3-blue)](https://github.com/google-deepmind/optax) [![numpy-1.24.4](https://img.shields.io/badge/numpy-1.24.4-green)](https://github.com/numpy/numpy) [![pandas-1.4.4](https://img.shields.io/badge/panadas-1.4.4-yellow)](https://github.com/pandas-dev/pandas) [![matplotlib-3.5.2](https://img.shields.io/badge/matplotlib-3.5.2-purple)](https://github.com/matplotlib/matplotlib)
+
+# Usage
+You can download this repo and run the demo task on your computing machine.
+
+# Time cost
+Typical install time is about 4 hours(including training time for all tasks).
+
+Exptected run time for performed on a workstation with an Intel Xeon W-2275 Processor and 2 NVIDIA GeForce RTX 3090s
+is about 10mins to 4hours(depened on the task we are investigating)
+
+# Coypright
+
+This tool is developed in Fluid Dynamics department, IHPC, A*STAR.
+
+The copyright holder for this project is Fluid Dynamics department, IHPC, A*STAR.
+
+All rights reserved.
+
+# Citation
+Jian Cheng Wong, Chin Chun Ooi, Abhishek Gupta, Pao-Hsiung Chiu, Joshua Shao Zheng Low, My Ha Dao, Yew-Soon Ong. "Generalizable Neural Physics Solvers by Baldwinian Evolution"

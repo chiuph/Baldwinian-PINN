@@ -28,3 +28,7 @@ This tool is developed in Fluid Dynamics department, Institute of High Performan
 The copyright holder for this project is Fluid Dynamics department, Institute of High Performance Computing (IHPC), A*STAR.
 
 All rights reserved.
+
+# Citation
+
+Jian Cheng Wong, Chin Chun Ooi, Abhishek Gupta, Pao-Hsiung Chiu, Joshua Shao Zheng Low, My Ha Dao, Yew-Soon Ong, "Generalizable Neural Physics Solvers by Baldwinian Evolution". https://arxiv.org/abs/2312.03243

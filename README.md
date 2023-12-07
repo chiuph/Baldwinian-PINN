@@ -31,4 +31,4 @@ All rights reserved.
 
 # Citation
 
-Jian Cheng Wong, Chin Chun Ooi, Abhishek Gupta, Pao-Hsiung Chiu, Joshua Shao Zheng Low, My Ha Dao, Yew-Soon Ong, "Generalizable Neural Physics Solvers by Baldwinian Evolution". https://arxiv.org/abs/2312.03243
+Jian Cheng Wong, Chin Chun Ooi, Abhishek Gupta, Pao-Hsiung Chiu, Joshua Shao Zheng Low, My Ha Dao, Yew-Soon Ong, _"Generalizable Neural Physics Solvers by Baldwinian Evolution"_. https://arxiv.org/abs/2312.03243
